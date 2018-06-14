@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Pure'/>
+        <page name='filter'/>
+        <page name='map'/>
+        <page name='reduce'/>
+        <page name='Blocks'/>
+        <page name='Closures'/>
+    </pages>
+</playground>
